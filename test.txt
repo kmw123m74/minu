@@ -1,2 +1,2 @@
 test file
-develop branch2
+develop branch2 conflict2
