@@ -3,3 +3,4 @@ develop branch2 conflict1
 develop branch2 conflict2
 conflict4
 conflict3
+merge conflict2
